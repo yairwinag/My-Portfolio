@@ -1,0 +1,66 @@
+.body {
+    /* background-color: lightcyan; */
+    background-image: linear-gradient( to bottom right, lightcyan, darkgrey);
+    background-repeat: no-repeat;
+    position: relative;
+    font-family: Georgia, 'Times New Roman';
+}
+
+.title {
+    font-weight: bolder;
+    margin-top: 40px;
+    font-size: 50px;
+    font-style: oblique;
+    color:darkslategray;
+}
+
+.bio-title {
+    font-weight: bold;
+    font-size: 30px;
+    font-style: oblique;
+    color: maroon;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+    margin-bottom: 10px;
+}
+
+.bio-body {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.t-w {
+    width: 50%;
+}
+
+.t-w1 {
+    width: 100%;
+}
+
+td {
+    font-family: fantasy;
+    font-size: 15px;
+    width: 100px;
+}
+
+#td {
+    padding-left: 50px;
+}
+
+img {
+    width: 150px;
+    height: 180px;
+    position:absolute;
+    right: 200px;
+    top: 159px;
+}
+
+li {
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+
+.pa {
+    font-size: 20px;
+    font-weight: 800;
+}
